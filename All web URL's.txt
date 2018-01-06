@@ -1,0 +1,125 @@
+
+
+DEV 9.4 URL's:
+
+GRC - http://finattr-midt-dev-01.cisco.com:7980/SASEnterpriseGRC
+BRM - http://finattr-midt-dev-01.cisco.com:7980/SASDecisionManager/
+Dashoboard -http://finattr-midt-dev-01.cisco.com:7980/SASBIDashboard
+WRS - http://finattr-midt-dev-01.cisco.com:7980/SASWebReportStudio
+Portal - http://finattr-midt-dev-01.cisco.com:7980/SASPortal
+Web console- http://finattr-midt-dev-01.cisco.com:7980/SASAdmin
+
+
+stg 9.4 URL's
+
+GRC - https://fnramid-stg94.cisco.com/SASEnterpriseGRC
+BRM - https://fnramid-stg94.cisco.com/SASDecisionManager
+Dashoboard - https://fnramid-stg94.cisco.com/SASBIDashboard
+WRS - https://fnramid-stg94.cisco.com/SASWebReportStudio
+Portal -https://fnramid-stg94.cisco.com/SASPortal
+Content server - :https://fnramid-stg94.cisco.com/SASContentServer/dircontents.jsp
+VA Admin -https://fnramid-stg94.cisco.com/SASVisualAnalyticsAdministrator
+VA Hub -  https://fnramid-stg94.cisco.com/SASVisualAnalyticsHub
+VA Viewer - https://fnramid-stg94.cisco.com/SASVisualAnalyticsViewer
+VA Designer - https://fnrmid-stg94.cisco.com/SASVisualDataBuilder
+Grid Manager- https://fnramid-stg94.cisco.com/SASGridManager
+Web admin console- https://fnramid-stg94.cisco.com/SASAdmin
+STP web - https://fnramid-stg94.cisco.com/SASStoredProcess/do
+DATA Manage - https://fnramid-stg94.cisco.com/SASDataManagement/
+SAS Lineage - https://fnramid-stg94.cisco.com/SASLineage/
+
+
+
+
+http://rteui-stage.cloudapps.cisco.com/rteui/index.jsp   - rteui
+
+
+
+
+
+Prod 9.4 URL's
+
+GRC - https://fnramid-prd94.cisco.com/SASEnterpriseGRC
+BRM - https://fnramid-prd94.cisco.com/SASDecisionManager
+Dashoboard - https://fnramid-prd94.cisco.com/SASBIDashboard
+WRS - https://fnramid-prd94.cisco.com/SASWebReportStudio
+Portal -https://fnramid-prd94.cisco.com/SASPortal
+Content server - :https://fnramid-prd94.cisco.com/SASContentServer/dircontents.jsp
+VA Admin -https://fnramid-prd94.cisco.com/SASVisualAnalyticsAdministrator
+VA Hub -  https://fnramid-prd94.cisco.com/SASVisualAnalyticsHub
+VA Viewer - https://fnramid-prd94.cisco.com/SASVisualAnalyticsViewer
+VA Designer - https://fnrmid-prd94.cisco.com/SASVisualDataBuilder
+Grid Manager/envrione- https://fnramid-prd94.cisco.com/SASGridManager
+Web admin console- https://fnramid-prd94.cisco.com/SASAdmin
+STP web - https://fnramid-prd94.cisco.com/SASStoredProcess/do
+DATA Manage - https://fnramid-prd94.cisco.com/SASDataManagement/
+SAS Lineage - https://fnramid-prd94.cisco.com/SASLineage/
+
+
+
+
+
+
+DEV 9.3 URL'S:
+
+RTE UI: http://finattr-midt-dev-01.cisco.com:9000/SASLogon/index.jsp?_sasapp=raprsasweb&
+GRC - http://finattr-midt-dev-01.cisco.com:9000/SASEnterpriseGRC
+BRM - http://finattr-midt-dev-01.cisco.com:9000/SASBusinessRulesManagerWeb
+Dashboard - http://finattr-midt-dev-01.cisco.com:9000/SASBIDashboard
+WRS - http://finattr-midt-dev-01.cisco.com:9000/SASWebReportStudio
+Portal - http://finattr-midt-dev-01.cisco.com:9000/SASPortal/main.do
+SASAdmin - http://finattr-midt-dev-01.cisco.com:9000/SASAdmin
+
+ Stage 9.3 URL’s::
+
+RTE UI: http://fnramid-stg.cisco.com:9000/SASLogon/index.jsp?_sasapp=raprsasweb&
+GRC - http://fnramid-stg.cisco.com:9000/SASEnterpriseGRC
+BRM - http://fnramid-stg.cisco.com:9000/SASBusinessRulesManagerWeb
+Dashboard - http://fnramid-stg.cisco.com:9000/SASBIDashboard
+WRS - http://fnramid-stg.cisco.com:9000/SASWebReportStudio
+Portal - http://fnramid-stg.cisco.com:9000/SASPortal/main.do
+
+
+
+Prod 9.3 URL'S:
+
+RTE UI: http://fnramid-prd.cisco.com:9000/SASLogon/index.jsp?_sasapp=raprsasweb& - old
+            http://rteui.cloudapps.cisco.com/rteui/index.jsp
+GRC - http://fnramid-prd.cisco.com:9000/SASEnterpriseGRC
+BRM - http://fnramid-prd.cisco.com:9000/SASBusinessRulesManagerWeb
+Dashboard - http://fnramid-prd.cisco.com:9000/SASBIDashboard
+WRS - http://fnramid-prd.cisco.com:9000/SASWebReportStudio
+Portal - http://fnramid-prd.cisco.com:9000/SASPortal/main.do
+
+
+
+
+
+
+http://attrui-stage.cloudapps.cisco.com/attrui/pctBundleSearch.do 
+12:30 AM 
+
+try this 
+12:30 AM 
+
+i guess this is for stage 
+12:30 AM 
+
+prod :- http://attrui.cloudapps.cisco.com/attrui/pctBundleSearch.do 
+
+
+
+
+
+https://rteui-tst.cloudapps.cisco.com/rteui/index.jsp
+
+
+nrs rte ui
+
+
+
+
+
+
+
+
