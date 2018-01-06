@@ -1,0 +1,70 @@
+today class
+
+1. jenkins setup in ec2 cloud  - ubuntu 16.04 in aws  --done
+2. docker install in ec2 cloud   -- for this docker tool box
+3. Docker toolkit install in local   -- done
+4. jenkins pipeline setup - web application deployment ----8 hrs 
+5. Nagios server setup in ec2 and local 
+6. Puppet server setup in ec2 and cloud 
+
+
+
+
+groovy -- to write the jenkin (dsl langauge) 
+
+
+dokcer will run on linux , if windows it should be on docker toolbox
+
+usermod -aG sudo kavitha
+
+sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu $(lsb_release -cs) stable"
+
+
+-------------
+
+
+docker steps
+
+
+kavitha@ip-172-31-0-252:~$ history
+    1  $curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
+    2  curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
+    3  sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu $(lsb_release -cs) stable"
+    4  clear
+    5  su kavitha
+    6  clear
+    7  who am i
+    8  cd
+    9  clear
+   10  who am i
+   11  curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
+   12  sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu $(lsb_release -cs) stable"
+   13  sudo apt-get update
+   14  apt-cache policy docker-ce
+   15  sudo apt-get install -y docker-ce
+   16  sudo systemctl status docker
+   17  ll
+   18  docker
+   19  docker version
+   20  clear
+   21  docker search nagios
+   22  sudo docker search nagios
+   23  clear
+   24  docker
+   25  sudo docker search nagios
+   26  sudo docker pull jasonrivers/nagios
+   27  sudo docker run -it jasonrivers/nagios:latest
+   28  sudo docker images
+   29  sudo docker run -it jasonrivers/nagio
+   30  sudo docker run -it jasonrivers/nagios
+   31  history
+nagios default pwd : nagiosadmin pwd: nagios 
+
+
+
+for kinatmarics -- intelvt technology need to enable on bios 
+
+peppet forge --- like explore
+
+
+once the local system installed the docker then install the docker cli 
